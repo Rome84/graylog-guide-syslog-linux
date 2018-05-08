@@ -1,0 +1,1 @@
+# graylog-guide-syslog-linux
